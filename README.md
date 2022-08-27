@@ -1,8 +1,7 @@
-# Electronics_shop
 
 
 
-<h1 align="center">Finadel-Metaverse</h1>
+<h1 align="center">Finadel-Metaverse (Electronic Shop)</h1>
 
 
 <p align="center">
