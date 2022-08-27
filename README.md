@@ -30,7 +30,7 @@ This repository contains the assets required to build the FINADEL METAVERSE  .
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
 <p> 
  
-[![Contributors](https://contrib.rocks/image?repo=Finadel1/Finadel-Metaverse)](https://github.com/Finadel1/Electronics_shop)
+[![Contributors](https://contrib.rocks/image?repo=Finadel1/Electronics_shop)](https://github.com/Finadel1/Electronics_shop)
  
 </p>
 
